@@ -1,1 +1,1 @@
-# CSE_Notes
+# Computer Science Engineering Notes
