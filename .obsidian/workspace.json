@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "cd19b8eed56ad384",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdd91b462589f5e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c70a0908b6af12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database System/RDBMS/ERD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "749bacd6b1ecbf55",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e938cb40fd9e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6006b99c64dc7a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a12f70f8f7d36fa5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14d46741ed8acbe0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8fddd64aed718f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2ca7347e9a5120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5feb4184b955017",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database System/RDBMS/ERD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e23adc3170b5c19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Database System/RDBMS/ERD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62edaf3acf9a2821",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98ac129de13ece2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database System/RDBMS/ERD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "59c70a0908b6af12",
+  "lastOpenFiles": [
+    "Images/ER_diagrams.png",
+    "Database System/RDBMS/ERD.md",
+    "Images/participation_constraint.png",
+    "Images/cardinality_constraint.png",
+    "Images/degree_of_relationship.png",
+    "Images/complex_attribute.png",
+    "Images/multi-valued_attribute.png",
+    "Images/derived_attribute.png",
+    "Images/composite_attribute.png",
+    "Images/simple_attribute.png",
+    "Images/weak_entity.png",
+    "Database System/RDBMS/Intro.md",
+    "Database System/RDBMS/Relational DB.md",
+    "Database System/RDBMS/Normalization.md",
+    "Templates/CSE_Notes.Template.md",
+    "Database System/RDBMS",
+    "DevOps/Containers/Docker/Dockerfile.md",
+    "DevOps/Containers/Docker/Docker.md"
+  ]
+}

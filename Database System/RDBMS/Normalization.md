@@ -46,4 +46,4 @@
 4. ![[norm_steps.jpg]]
 
 # Sources
-- [ITI Course: SQL Server -  Session 3](https://youtu.be/jZwvEgIwW_U?si=frkJKhx9rkQy08ap)
+- [Session 3 - ITI Course: Database, SQL Server](https://youtu.be/jZwvEgIwW_U?si=frkJKhx9rkQy08ap)
